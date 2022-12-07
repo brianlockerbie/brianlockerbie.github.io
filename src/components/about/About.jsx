@@ -40,7 +40,7 @@ const About = () => {
             </article>
 
             <p>
-              Veniam deserunt et esse sint officia eu magna ex esse et eiusmod. Pariatur ipsum tempor adipisicing veniam enim. Id laboris deserunt reprehenderit cillum laborum aliquip. Enim non irure reprehenderit adipisicing adipisicing aliqua irure culpa eiusmod quis consectetur.
+              Veniam deserunt et esse sint officia eu magna ex esse et eiusmod. Pariatur ipsum tempor adipisicing veniam enim. Id laboris deserunt reprehenderit cillum laborum aliquip.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
