@@ -54,6 +54,7 @@ const data = [
   }
 ]
 
+
 const Portfolio = () => {
   return (
     <section id='portfolio'>
@@ -64,14 +65,14 @@ const Portfolio = () => {
         {
           data.map(({id, image, title, github, demo}) => {
             return (
-              <article className='portfolio__item'>
+              <article key={id} className='portfolio__item'>
               <div className="portfolio__item-image">
-                <img src={IMG1} alt="" />
+                <img src={image} alt={title} />
               </div>
-              <h3>This is a portfolio item title</h3>
+              <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href="https://github.com" className='btn' target='_blank'>Github</a>
-                <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
+                <a href={github} className='btn' target='_blank'>Github</a>
+                <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
               </div>
             </article>
           )
