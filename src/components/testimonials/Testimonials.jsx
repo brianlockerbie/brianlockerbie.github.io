@@ -3,13 +3,14 @@ import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpg'
 
 // import Swiper core and required modules
-import { Navigation, Pagination } from 'swiper';
+import { Pagination } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/pagination';
+import 'swiper/swiper-bundle.min.css'
+import 'swiper/swiper.min.css'
+
 
 
 const data = [
