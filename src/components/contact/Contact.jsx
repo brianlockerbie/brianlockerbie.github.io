@@ -13,11 +13,8 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm('service_wkkq2gw', 'template_rgn6z6x', form.current, 'vTdzGCSWQXi1gppOM')
-      .then((result) => {
-          console.log(result.text);
-      }, (error) => {
-          console.log(error.text);
-      });
+      
+    e.target.reset()
   };
 
   return (
