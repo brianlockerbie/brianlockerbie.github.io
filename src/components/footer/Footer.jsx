@@ -19,13 +19,13 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
 
-      <div className=".footer__socials">
+      <div className="footer__socials">
         <a href="https://facebook.com/brianlockerbie1"><FaFacebookF/></a>
         <a href="https://linkedin.com/in/brian-lockerbie"><FaLinkedin/></a>
         <a href="https://twitter.com/BrianLockerbie"><IoLogoTwitter/></a>
       </div>
 
-      <div className="footer_copyright">
+      <div className="footer__copyright">
         <small>&copy; BRIAN LOCKERBIE. All rights reserved.</small>
       </div>
     </footer>

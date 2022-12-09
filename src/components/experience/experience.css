@@ -30,12 +30,12 @@
     row-gap: 2rem;
 }
 
-.experience_details {
+.experience__details {
     display: flex;
     gap: 1rem;
 }
 
-.experience_details-icon {
+.experience__details-icon {
     margin-top: 6px;
     color: var(--color-primary);
 }
@@ -50,6 +50,10 @@
         width: 80%;
         padding: 2rem;
         margin: 0 auto;
+    }
+
+    .experience__content {
+        padding: 1rem;
     }
 }
 
