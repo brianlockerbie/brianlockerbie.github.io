@@ -42,7 +42,8 @@ header {
     width: 22rem;
     height: 30rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: 50%;
+    transform: translateX(-50%);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
@@ -70,10 +71,24 @@ header {
 @media screen and (max-width: 600px) {
     header {
         height: 100vh;
+        padding: 4rem;
     }
 
     .header__socials,
     .scroll__down {
       display: none;
     }
+
+    .me {
+        width: 94%;
+        max-width: 20rem;
+        margin-top: 2.5rem;
+        justify-content: center;
+    }
+  
+    .cta {
+        margin-top: 1.7rem;
+        gap: 1rem;
+    }
 }
+
