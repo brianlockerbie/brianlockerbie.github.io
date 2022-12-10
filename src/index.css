@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap');
 
 * {
     margin: 0;
@@ -12,11 +12,15 @@
 
 :root {
     --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg-variant: #586AE2;
+    --color-primary: #E84A5F;
+    --color-primary-variant: #6ef3f5;
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: #E0D9F6;
+
+    /* #E84A5F 
+    #6ef3f5
+    */
 
     --transition: all 400ms ease;
 
@@ -34,11 +38,11 @@ html {
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
-    background: var(--color-bg);
+    font-family: 'Raleway', sans-serif;
+    background: black;
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    /*background-image: url(../src/assets/bg-texture.png); */
 }
 
 /* ===== General Styles === */
