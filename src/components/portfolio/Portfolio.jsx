@@ -13,44 +13,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Note Taker',
+    github: 'https://github.com/brianlockerbie/note-taker',
+    demo: 'https://radiant-chamber-54860.herokuapp.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Tech Blog',
+    github: 'https://github.com/brianlockerbie/tech-blog',
+    demo: 'https://shrouded-headland-93448.herokuapp.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Weather Dashboard',
+    github: 'https://github.com/brianlockerbie/weather-dashboard',
+    demo: 'https://brianlockerbie.github.io/weather-dashboard'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Population Density Checker',
+    github: 'https://github.com/project01team10/population-density-checker',
+    demo: 'https://project01team10.github.io/population-density-checker'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Password Generator',
+    github: 'https://github.com/brianlockerbie/password-generator-app',
+    demo: 'https://brianlockerbie.github.io/password-generator-app'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Insert Project Title',
-    github: 'https://github.com',
-    demo: ''
+    title: 'Work Day Scheduler',
+    github: 'https://github.com/brianlockerbie/work-day-scheduler',
+    demo: 'https://brianlockerbie.github.io/work-day-scheduler'
   }
 ]
 

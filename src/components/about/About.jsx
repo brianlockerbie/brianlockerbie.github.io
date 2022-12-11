@@ -30,7 +30,7 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>100+ Worldwide</small>
+              <small>50+ Worldwide</small>
             </article>
 
             <article className='about__card'>
@@ -41,7 +41,9 @@ const About = () => {
           </div>
 
             <p>
-              Veniam deserunt et esse sint officia eu magna ex esse et eiusmod. Pariatur ipsum tempor adipisicing veniam enim. Id laboris deserunt reprehenderit cillum laborum aliquip.
+            Hi. I'm Brian, nice to meet you.
+
+            I am passionate about building & desgining excellent software that improves the lives of those around me. I specialize in front end development. I love creating functional beautiful applications that are one of a kind.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

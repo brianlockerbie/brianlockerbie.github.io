@@ -1,6 +1,7 @@
 import React from 'react'
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpg'
+import AVTR2 from '../../assets/avatar2.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -25,7 +26,7 @@ const data = [
     review: 'Nulla non adipisicing amet ut anim. Ad laborum laboris veniam deserunt eiusmod. Dolor pariatur sit eiusmod adipisicing excepteur duis fugiat laborum occaecat cupidatat sit sint ex.'
   },
   {
-    avatar: AVTR1,
+    avatar: AVTR2,
     name: 'Amber Dawn',
     review: 'Nulla non adipisicing amet ut anim. Ad laborum laboris veniam deserunt eiusmod. Dolor pariatur sit eiusmod adipisicing excepteur duis fugiat laborum occaecat cupidatat sit sint ex.'
   },
