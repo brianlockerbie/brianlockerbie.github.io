@@ -4,11 +4,26 @@ header {
     overflow: hidden;
 }
 
+/* header h1, h5 {
+    animation: fade 1s ease-in 1s;
+
+    @keyframes fade {
+        0% {
+            opacity: 0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+} */
+
 .header__container {
     text-align: center;
     height: 100%;
     position: relative;
 }
+
+
 
 /* ===== CTA ===== */
 .cta {
