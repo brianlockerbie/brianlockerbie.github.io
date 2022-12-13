@@ -17,11 +17,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>I enjoy developing web applications using multiple languages such as: HTML5, CSS, JavaScript & React.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Applications that I create are always fast & responsive, to operate on any size device.</p>
+              <p>I create applications that are both esthetically pleasing, while also easy to navigate for the end user. Blending design and functionality are a passion of mine and I enjoy exploring my creative side. Applications that I create are always fast & responsive, to operate on any size device.</p>
             </li>
             {/* <li>
               <BiCheck className='service__list-icon' />
@@ -38,15 +34,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
+              <p>Websites are a fundamental way to attract new customers while also supporting returning ones. My site designs include designing the layout, user interface, defining the site's architecture and more. All of which are catered to the unique needs of my clients.</p>
             </li>
           </ul>
         </article>
@@ -59,15 +47,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Non consectetur fugiat proident reprehenderit.</p>
+              <p>It is one thing for a website or an application to function properly, but it also has to both attract the user to want to use it as well as stand out from the rest! I have a keen eye for colour schemes and pallettes which I use in harmony with my ability to organize and display information.</p>
             </li>
           </ul>
         </article>
