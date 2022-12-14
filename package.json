@@ -1,7 +1,8 @@
 {
   "name": "react-portfolio-website-1",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://brian-lockerbie.com",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
