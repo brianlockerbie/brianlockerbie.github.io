@@ -55,9 +55,11 @@ First clone the repository from GitHub. Run npm install. Edit/change the values 
 Live link [here](https://brian-lockerbie.com)
 
 ## Screenshot
-<img src="src/assets/.png">
-<img src="src/assets/.png">
-<img src="src/assets/.png">
+<img src="src/assets/portfolio-screenshot.png">
+<img src="src/assets/portfolio-screenshot2.png">
+<img src="src/assets/portfolio-screenshot3.png">
+<img src="src/assets/portfolio-screenshot1.png">
+<img src="src/assets/portfolio-screenshot4.png">
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
