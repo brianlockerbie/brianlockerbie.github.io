@@ -15,7 +15,7 @@ const data = [
     image: IMG1,
     title: 'Note Taker',
     github: 'https://github.com/brianlockerbie/note-taker',
-    demo: 'https://radiant-chamber-54860.herokuapp.com'
+    demo: 'https://web-production-048a.up.railway.app'
   },
   {
     id: 2,
